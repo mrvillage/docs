@@ -2,11 +2,11 @@
 description: The central directory for all documentation.
 ---
 
-# Documenation Central
+# Documentation Central
 
 
 
-{% page-ref page="pnwapi/" %}
+{% page-ref page="riftapi/" %}
 
 
 
